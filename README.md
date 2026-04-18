@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed Hassan – VAPT Specialist Portfolio
+# 👨‍💻 Ahmed Hassan – CyberSecurity Specialist Portfolio
 
 ## 🧠 About Me
 I am a VAPT Specialist with experience in IT and have also worked as a Cybersecurity Instructor.  
@@ -76,10 +76,12 @@ This section includes my detailed writeups and walkthroughs for Hack The Box lab
 
 ## 🚀 Projects
 
-### 🔥 Kerberoasting Attack (Active Directory Security)
+### 🔥 Kerberoasting and AS-REP Roasting Attack (Active Directory Security)
 - Repository: https://github.com/Ahmedhassanelf/my-projects-Kerberoasting-Attack  
 - Description:
-  A detailed practical project demonstrating Kerberoasting attack techniques in Active Directory environments and how attackers exploit weak service account passwords.
+- Built a full Active Directory lab environment consisting of (Domain Controller), (Domain User), and (Attacker machines), and performed Kerberoasting and AS-REP Roasting attacks.
+  
+  A detailed practical project demonstrating Kerberoasting attack techniques in Active Directory environments and how attackers exploit  service account passwords.
 
 - Key Topics:
   - Active Directory Enumeration  
