@@ -1,62 +1,62 @@
-# 👨‍💻 Ahmed Hassan – CyberSecurity Specialist Portfolio
+# Ahmed Hassan – CyberSecurity Specialist Portfolio
 
-## 🧠 About Me
+##  About Me
 I am a VAPT Specialist with experience in IT and have also worked as a Cybersecurity Instructor.  
 Currently pursuing a Master’s degree in Cybersecurity and holding relevant certifications, I am seeking new opportunities.
 
 ---
+## 🧪 Security Research & Penetration Testing Reports
 
-🛠️ Skills & Tools
+This section highlights real-world security research and hands-on penetration testing engagements conducted in controlled environments and bug bounty programs. Each report demonstrates end-to-end attack methodologies, exploitation techniques, and security impact analysis.
 
-🔹 Skills
-* Web Application Penetration Testing
-* API Security Testing
-* Authentication & Authorization Testing
-* OWASP Top 10 Vulnerabilities Exploitation
-* Network Security & TCP/IP Fundamentals
-* Network Scanning & Enumeration
-* Firewall & IDS/IPS Evasion Techniques
-* Active Directory & Enumeration
-* Vulnerability Assessment & Risk Analysis
-* Privilege Escalation Techniques
-* Reconnaissance & OSINT
-* Exploitation & Post-Exploitation Techniques
-* Lateral Movement (Basics)
-* Attack Surface Analysis
-* Basic Python for Security Automation
-* Bash Scripting (Linux)
-
-🔹 Tools I use
-* Burp Suite
-* Nmap
-* Gobuster
-* ffuf
-* dirsearch
-* Amass
-* Subfinder
-* theHarvester
-* OWASP ZAP
-* SQLmap
-* Metasploit Framework
-* XSStrike
-* BloodHound
-* Mimikatz
-* CrackMapExec
-* Hashcat
-* John the Ripper
-* Wireshark
-* Basic SIEM Knowledge (Log Analysis & Monitoring)
 ---
 
-## 🐞 Bug Bounty
+##  Internal Active Directory Penetration Test REPORT.
 
-### 🔗 Subdomain Takeover – Credit Karma
-- Repository: https://github.com/Ahmedhassanelf/subdomain-takeover-creditkarma-Bug-Bounty  
-- Type: Subdomain Takeover  
-- Impact: Account takeover / phishing risk  
-- Description: Identified a misconfigured DNS record leading to a subdomain takeover vulnerability.  
-- Key Skills: Reconnaissance, DNS analysis, exploitation  
+📁 Repository: https://github.com/Ahmedhassanelf/-Internal-Active-Directory-Penetration-Test-Report  
 
+###  Overview
+A full-scale Active Directory attack simulation demonstrating a realistic enterprise compromise scenario starting from initial access to full database takeover.
+
+###  Key Attack Techniques
+- AS-REP Roasting for initial access  
+- Kerberoasting for privilege escalation  
+- Credential cracking & lateral movement  
+- Full domain and database compromise  
+
+### Security Domains Covered
+- Active Directory Security  
+- Kerberos Authentication Exploitation  
+- Post-Exploitation Techniques  
+- Privilege Escalation & Lateral Movement  
+
+---
+
+##  Subdomain Takeover – Credit Karma (Bug Bounty REPORT)
+
+📁 Repository: https://github.com/Ahmedhassanelf/Subdomain-Takeover-Vulnerability-Report  
+
+### Overview
+Real-world bug bounty research identifying a Subdomain Takeover vulnerability caused by a DNS misconfiguration pointing to an unclaimed third-party service.
+
+### Key Findings
+- Dangling CNAME record detection  
+- Third-party service takeover validation  
+- Potential phishing & domain abuse risk  
+
+### Security Domains Covered
+- DNS Security & Misconfiguration Analysis  
+- Reconnaissance & Asset Enumeration  
+- Bug Bounty Methodology  
+- Web Application Security Impact Analysis  
+
+---
+
+## 📊 Summary Impact
+- Real-world Bug Bounty Research  
+- Full Attack Chain Simulation  
+- Web + Active Directory Security Coverage  
+- End-to-End Exploitation Scenarios  
 ---
 
 ## 🧪 Writeups (Labs)
@@ -74,9 +74,9 @@ This section includes my detailed writeups and walkthroughs for Hack The Box lab
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔥 Kerberoasting and AS-REP Roasting Attack (Active Directory Security)
+###  Kerberoasting and AS-REP Roasting Attack (Active Directory Security)
 - Repository: https://github.com/Ahmedhassanelf/my-projects-Kerberoasting-Attack  
 - Description:
 - Built a full Active Directory lab environment consisting of (Domain Controller), (Domain User), and (Attacker machines), and performed Kerberoasting and AS-REP Roasting attacks.
@@ -97,7 +97,54 @@ This section includes my detailed writeups and walkthroughs for Hack The Box lab
   A security-focused project integrating Active Directory authentication into a banking system environment to control access and simulate real-world enterprise security architecture.
 
 ---
+# 🛠️ Skills & Technical Expertise
 
+## 🔹 Offensive Security (Core Expertise)
+- Web Application Penetration Testing  
+- Active Directory Attacks & Enumeration  
+- Vulnerability Assessment & Exploitation  
+- Privilege Escalation (Linux & Windows)  
+- Post-Exploitation Techniques  
+- Reconnaissance & OSINT  
+- Attack Surface Analysis  
+- Authentication & Authorization Security Testing  
+- OWASP Top 10 Exploitation  
+
+---
+
+## 🔹 Network & Infrastructure Security
+- Network Scanning & Enumeration  
+- TCP/IP Fundamentals  
+- Firewall & IDS/IPS Evasion Techniques  
+- Internal Network Pivoting (Basic Lateral Movement)  
+
+---
+
+## 🔹 Tools & Frameworks
+- Burp Suite  
+- Nmap  
+- Gobuster / ffuf / dirsearch  
+- Amass / Subfinder / theHarvester  
+- OWASP ZAP  
+- SQLmap  
+- Metasploit Framework  
+- XSStrike  
+- BloodHound  
+- CrackMapExec  
+- Mimikatz  
+- Hashcat / John the Ripper  
+- Wireshark  
+
+---
+## 🔹 Scripting & Automation
+- Python for Security Automation (Basic)  
+- Bash Scripting (Linux Environments)  
+
+---
+
+## 🔹 Security Monitoring (Foundational)
+- SIEM Log Analysis (Basic Understanding)  
+---
 
 
 ## 🎓 Certifications & Courses
