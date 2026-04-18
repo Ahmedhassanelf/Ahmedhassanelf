@@ -144,8 +144,8 @@ Hack The Box writeup documenting a complete IDS/IPS bypass chain to enumerate an
 | Certification | Issuer | Status |
 |---|---|---|
 | 🏅 **eWAPT** – Web Application Penetration Tester | INE Security | ✅ Certified — May 2026 |
-| 🏅 **OSCP** – Offensive Security Certified Professional | OffSec | ✅ Completed |
-| 🏅 **eJPTv2** – Junior Penetration Tester | INE Security | ✅ Completed |
+| 🏅 **OSCP** – OSCP – Course Completion (Exam Pending) | Course | ✅ Completed |
+| 🏅 **eJPTv2** – Junior Penetration Tester | Course | ✅ Completed |
 | 🏅 **SOC Fundamentals** | NetRiders | ✅ Completed |
 | 🔄 **CPTS** – Certified Penetration Tester Specialist | Hack The Box | 🔄 In Progress |
 | 🔄 **CWES** – Certified Web Exploitation Specialist | Hack The Box | 🔄 In Progress |
@@ -155,7 +155,7 @@ Hack The Box writeup documenting a complete IDS/IPS bypass chain to enumerate an
 <details>
 <summary><b>📜 View Certificates</b></summary>
 
-### OSCP – Certificate of Completion
+###OSCP – Course Completion (Exam Pending)
 <img width="1200" alt="OSCP Certificate" src="https://github.com/user-attachments/assets/5ce9d486-525e-45d7-824f-d836f5511b0d"/>
 
 ### eJPTv2 – Certificate of Completion
