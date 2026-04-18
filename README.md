@@ -28,10 +28,14 @@ Pursuing a Master's in Cybersecurity. Active in bug bounty and Security research
 
 ---
 
-### 🔴 Internal Active Directory Penetration Test ( REPORT )
+### 🔴 Internal Active Directory Penetration Test
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Report-181717?style=flat-square&logo=github)](https://github.com/Ahmedhassanelf/-Internal-Active-Directory-Penetration-Test-Report)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmedhassanelf/-Internal-Active-Directory-Penetration-Test-Report)
+[![Report](https://img.shields.io/badge/PDF-Full%20Report-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1K7wA1fIRHRWfWb8z17ZL1EZucr_drbx_?usp=drive_link)
 
+Full-scale enterprise AD compromise simulation — from zero access to full domain takeover, documented as a professional pentest report.
+
+**Attack Chain:**
 Full-scale enterprise AD compromise simulation — from zero access to full domain takeover, documented as a professional pentest report.
 
 **Attack Chain:**
