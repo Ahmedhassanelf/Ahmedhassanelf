@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed Hassan – VAPT Specialist Portfolio
 
 ## 🧠 About Me
-I am a VAPT Specialist based in Riyadh with experience in IT and have also worked as a Cybersecurity Instructor.  
+I am a VAPT Specialist with experience in IT and have also worked as a Cybersecurity Instructor.  
 Currently pursuing a Master’s degree in Cybersecurity and holding relevant certifications, I am seeking new opportunities.
 
 ---
@@ -137,8 +137,6 @@ This section includes my detailed writeups and walkthroughs for Hack The Box lab
 ---
 
 ## 📬 Contact
-- 📍 Location: Riyadh, Saudi Arabia  
 - 💼 LinkedIn: (https://www.linkedin.com/in/ahmed-hassan-069b83379?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
 - 📧 Email: (ahmedelfokery@gmail.com)  
-
 ---
